@@ -75,7 +75,7 @@ public class Main {
         System.out.println("Маша тепер получает " + mesDoxodMasha + "руб. повышение составило " + raznicaM );
         System.out.println("Денис тепер получает " + mesDoxodDen + "руб. повышение составило " + raznicaD );
         System.out.println("Кристина тепер получает " + mesDoxodKris + "руб. повышение составило " + raznicaK );
-
+// мне очень понравилось!
 }
 
 }
